@@ -1,0 +1,209 @@
+* {
+    font-family: "宋体";
+}
+
+div {
+    border-radius: 5px;
+    /* border: 1px solid #aacfd0; */
+}
+
+#container {
+    margin: 2%;
+    width: 920px;
+    height: 1200px;
+    border: 1px solid #79a8a9;
+    background-color: #aacfd0;
+    font-size: 14px;
+    color: #003b42;
+}
+
+#banner {
+    margin-top: 1.5%;
+    margin-left: 1.3%;
+    margin-bottom: 0.5%;
+    width: 97.3%;
+    height: 6%;
+    border: 1px solid #79a8a9;
+    background-color: #dffdf9;
+}
+
+#main_left {
+    float: left;
+    margin-left: 1.15%;
+    width: 32%;
+    height: 89%;
+    border: 1px solid #79a8a9;
+    background-color: #dffdf9;
+
+}
+
+#main_left div {
+    margin: 3%;
+    width: 93%;
+    /* border: 1px solid #003b42; */
+    background-color: #aacfd0;
+}
+
+#main_left_1 {
+    height: 28%;
+}
+
+
+#main_left_2 {
+    height: 15%;
+}
+
+#main_left_3 {
+    height: 15%;
+}
+
+#main_left_4 {
+    height: 36.5%;
+}
+
+
+#main_right {
+    float: left;
+    width: 65%;
+    height: 89%;
+    border: 1px solid #79a8a9;
+    background-color: #dffdf9;
+}
+
+#main_right div {
+    margin-top: 1.5%;
+    margin-left: 1.1%;
+    width: 97%;
+    /* border: 1px solid #003b42; */
+    background-color: #79a8a9;
+    color: #002529;
+}
+
+#main_right_1 {
+    height: 12%;
+
+}
+
+
+#main_right_2 {
+    height: 15%;
+}
+
+#main_right_3 {
+    height: 44%;
+    
+}
+
+#main_right_4 {
+    height: 23.5%;
+}
+
+#list li{
+    float:left;
+    list-style: none;
+    width:auto;
+    border: 2px solid #696969 ;
+    margin-left: 8px;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 10px
+}
+
+#mlo_name font{
+    float: left;
+    list-style: none;
+    width:auto;
+    border: 2px solid #696969 ;
+    margin-left: 8px;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 10px
+}
+
+#mlo_content font{
+    float: left;
+    list-style: none;
+    width:auto;
+    border: 2px solid #696969 ;
+    margin-left: 8px;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 10px
+}
+
+#mlo_content li{
+    float:left;
+    list-style: none;
+    width:auto;
+    border: 2px solid #696969 ;
+    margin-left: 8px;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 10px
+}
+
+#mlo_energry font{
+    float: left;
+    list-style: none;
+    width:auto;
+    border: 2px solid #696969 ;
+    margin-left: 8px;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 10px
+}
+
+#mlo_energry li{
+    float: left;
+    list-style: none;
+    width:auto;
+    border: 2px solid #696969 ;
+    margin-left: 8px;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 10px
+}
+
+#main_1 font{
+    float: left;
+    list-style: none;
+    width:auto;
+    border: 2px solid #696969 ;
+    margin-left: 8px;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 10px
+}
+
+#main_2 font{
+    float: left;
+    list-style: none;
+    width:auto;
+    border: 2px solid #696969 ;
+    margin-left: 8px;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 10px
+}
+
+#main_3 font{
+    float: left;
+    list-style: none;
+    width:auto;
+    border: 2px solid #696969 ;
+    margin-left: 8px;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 10px
+}
+
+#main_4 font{
+    float: left;
+    list-style: none;
+    width:auto;
+    border: 2px solid #696969 ;
+    margin-left: 8px;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 10px
+}
